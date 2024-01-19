@@ -1,1 +1,1 @@
-# sustainable_forest_management
+# sustainable-forest-management
